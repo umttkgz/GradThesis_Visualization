@@ -1,1 +1,1 @@
-Run TreeMap_Final.ipynb to view treemap chart of the dataset. Other directories are to show the changes made in the dataset files.
+Run DiseaseFinal.ipynb and EducationFinal.ipynb to view treemap charts of the datasets. Other directories are to show the changes made in the dataset files of the disease dataset. Original education dataset has been filtered to avoid the double count issue.
