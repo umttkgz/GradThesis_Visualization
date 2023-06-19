@@ -1,0 +1,521 @@
+4 way domicile,Domicile,Level of study,Mode of study,Academic Year,Region of HE provider,Number
+All,Bulgaria,Postgraduate (research),Full-time,2021/22,North East,5.0
+All,Bulgaria,Postgraduate (research),Full-time,2021/22,North West,10.0
+All,Bulgaria,Postgraduate (research),Full-time,2021/22,Yorkshire and The Humber,5.0
+All,Bulgaria,Postgraduate (research),Full-time,2021/22,East Midlands,10.0
+All,Bulgaria,Postgraduate (research),Full-time,2021/22,West Midlands,5.0
+All,Bulgaria,Postgraduate (research),Full-time,2021/22,East of England,10.0
+All,Bulgaria,Postgraduate (research),Full-time,2021/22,London,25.0
+All,Bulgaria,Postgraduate (research),Full-time,2021/22,South East,15.0
+All,Bulgaria,Postgraduate (research),Full-time,2021/22,South West,5.0
+All,Bulgaria,Postgraduate (research),Full-time,2021/22,The Open University in England,0.0
+All,Bulgaria,Postgraduate (research),Full-time,2021/22,Wales,5.0
+All,Bulgaria,Postgraduate (research),Full-time,2021/22,Scotland,15.0
+All,Bulgaria,Postgraduate (research),Full-time,2021/22,Northern Ireland,0.0
+All,Bulgaria,Postgraduate (research),Part-time,2021/22,North East,0.0
+All,Bulgaria,Postgraduate (research),Part-time,2021/22,North West,0.0
+All,Bulgaria,Postgraduate (research),Part-time,2021/22,Yorkshire and The Humber,0.0
+All,Bulgaria,Postgraduate (research),Part-time,2021/22,East Midlands,0.0
+All,Bulgaria,Postgraduate (research),Part-time,2021/22,West Midlands,0.0
+All,Bulgaria,Postgraduate (research),Part-time,2021/22,East of England,0.0
+All,Bulgaria,Postgraduate (research),Part-time,2021/22,London,5.0
+All,Bulgaria,Postgraduate (research),Part-time,2021/22,South East,0.0
+All,Bulgaria,Postgraduate (research),Part-time,2021/22,South West,0.0
+All,Bulgaria,Postgraduate (research),Part-time,2021/22,The Open University in England,0.0
+All,Bulgaria,Postgraduate (research),Part-time,2021/22,Wales,0.0
+All,Bulgaria,Postgraduate (research),Part-time,2021/22,Scotland,0.0
+All,Bulgaria,Postgraduate (research),Part-time,2021/22,Northern Ireland,0.0
+All,Bulgaria,Postgraduate (taught),Full-time,2021/22,North East,5.0
+All,Bulgaria,Postgraduate (taught),Full-time,2021/22,North West,10.0
+All,Bulgaria,Postgraduate (taught),Full-time,2021/22,Yorkshire and The Humber,10.0
+All,Bulgaria,Postgraduate (taught),Full-time,2021/22,East Midlands,10.0
+All,Bulgaria,Postgraduate (taught),Full-time,2021/22,West Midlands,10.0
+All,Bulgaria,Postgraduate (taught),Full-time,2021/22,East of England,5.0
+All,Bulgaria,Postgraduate (taught),Full-time,2021/22,London,90.0
+All,Bulgaria,Postgraduate (taught),Full-time,2021/22,South East,20.0
+All,Bulgaria,Postgraduate (taught),Full-time,2021/22,South West,10.0
+All,Bulgaria,Postgraduate (taught),Full-time,2021/22,The Open University in England,0.0
+All,Bulgaria,Postgraduate (taught),Full-time,2021/22,Wales,15.0
+All,Bulgaria,Postgraduate (taught),Full-time,2021/22,Scotland,20.0
+All,Bulgaria,Postgraduate (taught),Full-time,2021/22,Northern Ireland,0.0
+All,Bulgaria,Postgraduate (taught),Part-time,2021/22,North East,0.0
+All,Bulgaria,Postgraduate (taught),Part-time,2021/22,North West,0.0
+All,Bulgaria,Postgraduate (taught),Part-time,2021/22,Yorkshire and The Humber,10.0
+All,Bulgaria,Postgraduate (taught),Part-time,2021/22,East Midlands,5.0
+All,Bulgaria,Postgraduate (taught),Part-time,2021/22,West Midlands,0.0
+All,Bulgaria,Postgraduate (taught),Part-time,2021/22,East of England,5.0
+All,Bulgaria,Postgraduate (taught),Part-time,2021/22,London,30.0
+All,Bulgaria,Postgraduate (taught),Part-time,2021/22,South East,10.0
+All,Bulgaria,Postgraduate (taught),Part-time,2021/22,South West,5.0
+All,Bulgaria,Postgraduate (taught),Part-time,2021/22,The Open University in England,0.0
+All,Bulgaria,Postgraduate (taught),Part-time,2021/22,Wales,0.0
+All,Bulgaria,Postgraduate (taught),Part-time,2021/22,Scotland,10.0
+All,Bulgaria,Postgraduate (taught),Part-time,2021/22,Northern Ireland,0.0
+All,Bulgaria,First degree,Full-time,2021/22,North East,60.0
+All,Bulgaria,First degree,Full-time,2021/22,North West,300.0
+All,Bulgaria,First degree,Full-time,2021/22,Yorkshire and The Humber,175.0
+All,Bulgaria,First degree,Full-time,2021/22,East Midlands,145.0
+All,Bulgaria,First degree,Full-time,2021/22,West Midlands,230.0
+All,Bulgaria,First degree,Full-time,2021/22,East of England,240.0
+All,Bulgaria,First degree,Full-time,2021/22,London,750.0
+All,Bulgaria,First degree,Full-time,2021/22,South East,575.0
+All,Bulgaria,First degree,Full-time,2021/22,South West,245.0
+All,Bulgaria,First degree,Full-time,2021/22,The Open University in England,0.0
+All,Bulgaria,First degree,Full-time,2021/22,Wales,120.0
+All,Bulgaria,First degree,Full-time,2021/22,Scotland,610.0
+All,Bulgaria,First degree,Full-time,2021/22,Northern Ireland,5.0
+All,Bulgaria,First degree,Part-time,2021/22,North East,0.0
+All,Bulgaria,First degree,Part-time,2021/22,North West,5.0
+All,Bulgaria,First degree,Part-time,2021/22,Yorkshire and The Humber,5.0
+All,Bulgaria,First degree,Part-time,2021/22,East Midlands,0.0
+All,Bulgaria,First degree,Part-time,2021/22,West Midlands,15.0
+All,Bulgaria,First degree,Part-time,2021/22,East of England,10.0
+All,Bulgaria,First degree,Part-time,2021/22,London,25.0
+All,Bulgaria,First degree,Part-time,2021/22,South East,15.0
+All,Bulgaria,First degree,Part-time,2021/22,South West,10.0
+All,Bulgaria,First degree,Part-time,2021/22,The Open University in England,0.0
+All,Bulgaria,First degree,Part-time,2021/22,Wales,0.0
+All,Bulgaria,First degree,Part-time,2021/22,Scotland,25.0
+All,Bulgaria,First degree,Part-time,2021/22,Northern Ireland,0.0
+All,Bulgaria,Other undergraduate,Full-time,2021/22,North East,5.0
+All,Bulgaria,Other undergraduate,Full-time,2021/22,North West,0.0
+All,Bulgaria,Other undergraduate,Full-time,2021/22,Yorkshire and The Humber,0.0
+All,Bulgaria,Other undergraduate,Full-time,2021/22,East Midlands,0.0
+All,Bulgaria,Other undergraduate,Full-time,2021/22,West Midlands,5.0
+All,Bulgaria,Other undergraduate,Full-time,2021/22,East of England,0.0
+All,Bulgaria,Other undergraduate,Full-time,2021/22,London,5.0
+All,Bulgaria,Other undergraduate,Full-time,2021/22,South East,0.0
+All,Bulgaria,Other undergraduate,Full-time,2021/22,South West,0.0
+All,Bulgaria,Other undergraduate,Full-time,2021/22,The Open University in England,0.0
+All,Bulgaria,Other undergraduate,Full-time,2021/22,Wales,5.0
+All,Bulgaria,Other undergraduate,Full-time,2021/22,Scotland,0.0
+All,Bulgaria,Other undergraduate,Full-time,2021/22,Northern Ireland,0.0
+All,Bulgaria,Other undergraduate,Part-time,2021/22,North East,0.0
+All,Bulgaria,Other undergraduate,Part-time,2021/22,North West,0.0
+All,Bulgaria,Other undergraduate,Part-time,2021/22,Yorkshire and The Humber,0.0
+All,Bulgaria,Other undergraduate,Part-time,2021/22,East Midlands,0.0
+All,Bulgaria,Other undergraduate,Part-time,2021/22,West Midlands,0.0
+All,Bulgaria,Other undergraduate,Part-time,2021/22,East of England,5.0
+All,Bulgaria,Other undergraduate,Part-time,2021/22,London,5.0
+All,Bulgaria,Other undergraduate,Part-time,2021/22,South East,0.0
+All,Bulgaria,Other undergraduate,Part-time,2021/22,South West,0.0
+All,Bulgaria,Other undergraduate,Part-time,2021/22,The Open University in England,0.0
+All,Bulgaria,Other undergraduate,Part-time,2021/22,Wales,0.0
+All,Bulgaria,Other undergraduate,Part-time,2021/22,Scotland,5.0
+All,Bulgaria,Other undergraduate,Part-time,2021/22,Northern Ireland,0.0
+All,Greece,Postgraduate (research),Full-time,2021/22,North East,20.0
+All,Greece,Postgraduate (research),Full-time,2021/22,North West,75.0
+All,Greece,Postgraduate (research),Full-time,2021/22,Yorkshire and The Humber,45.0
+All,Greece,Postgraduate (research),Full-time,2021/22,East Midlands,45.0
+All,Greece,Postgraduate (research),Full-time,2021/22,West Midlands,60.0
+All,Greece,Postgraduate (research),Full-time,2021/22,East of England,80.0
+All,Greece,Postgraduate (research),Full-time,2021/22,London,210.0
+All,Greece,Postgraduate (research),Full-time,2021/22,South East,115.0
+All,Greece,Postgraduate (research),Full-time,2021/22,South West,30.0
+All,Greece,Postgraduate (research),Full-time,2021/22,The Open University in England,0.0
+All,Greece,Postgraduate (research),Full-time,2021/22,Wales,15.0
+All,Greece,Postgraduate (research),Full-time,2021/22,Scotland,135.0
+All,Greece,Postgraduate (research),Full-time,2021/22,Northern Ireland,10.0
+All,Greece,Postgraduate (research),Part-time,2021/22,North East,10.0
+All,Greece,Postgraduate (research),Part-time,2021/22,North West,10.0
+All,Greece,Postgraduate (research),Part-time,2021/22,Yorkshire and The Humber,5.0
+All,Greece,Postgraduate (research),Part-time,2021/22,East Midlands,5.0
+All,Greece,Postgraduate (research),Part-time,2021/22,West Midlands,15.0
+All,Greece,Postgraduate (research),Part-time,2021/22,East of England,15.0
+All,Greece,Postgraduate (research),Part-time,2021/22,London,45.0
+All,Greece,Postgraduate (research),Part-time,2021/22,South East,15.0
+All,Greece,Postgraduate (research),Part-time,2021/22,South West,10.0
+All,Greece,Postgraduate (research),Part-time,2021/22,The Open University in England,0.0
+All,Greece,Postgraduate (research),Part-time,2021/22,Wales,5.0
+All,Greece,Postgraduate (research),Part-time,2021/22,Scotland,20.0
+All,Greece,Postgraduate (research),Part-time,2021/22,Northern Ireland,0.0
+All,Greece,Postgraduate (taught),Full-time,2021/22,North East,80.0
+All,Greece,Postgraduate (taught),Full-time,2021/22,North West,50.0
+All,Greece,Postgraduate (taught),Full-time,2021/22,Yorkshire and The Humber,40.0
+All,Greece,Postgraduate (taught),Full-time,2021/22,East Midlands,25.0
+All,Greece,Postgraduate (taught),Full-time,2021/22,West Midlands,45.0
+All,Greece,Postgraduate (taught),Full-time,2021/22,East of England,50.0
+All,Greece,Postgraduate (taught),Full-time,2021/22,London,565.0
+All,Greece,Postgraduate (taught),Full-time,2021/22,South East,100.0
+All,Greece,Postgraduate (taught),Full-time,2021/22,South West,50.0
+All,Greece,Postgraduate (taught),Full-time,2021/22,The Open University in England,0.0
+All,Greece,Postgraduate (taught),Full-time,2021/22,Wales,50.0
+All,Greece,Postgraduate (taught),Full-time,2021/22,Scotland,180.0
+All,Greece,Postgraduate (taught),Full-time,2021/22,Northern Ireland,0.0
+All,Greece,Postgraduate (taught),Part-time,2021/22,North East,10.0
+All,Greece,Postgraduate (taught),Part-time,2021/22,North West,45.0
+All,Greece,Postgraduate (taught),Part-time,2021/22,Yorkshire and The Humber,25.0
+All,Greece,Postgraduate (taught),Part-time,2021/22,East Midlands,10.0
+All,Greece,Postgraduate (taught),Part-time,2021/22,West Midlands,30.0
+All,Greece,Postgraduate (taught),Part-time,2021/22,East of England,15.0
+All,Greece,Postgraduate (taught),Part-time,2021/22,London,135.0
+All,Greece,Postgraduate (taught),Part-time,2021/22,South East,30.0
+All,Greece,Postgraduate (taught),Part-time,2021/22,South West,20.0
+All,Greece,Postgraduate (taught),Part-time,2021/22,The Open University in England,0.0
+All,Greece,Postgraduate (taught),Part-time,2021/22,Wales,20.0
+All,Greece,Postgraduate (taught),Part-time,2021/22,Scotland,65.0
+All,Greece,Postgraduate (taught),Part-time,2021/22,Northern Ireland,5.0
+All,Greece,First degree,Full-time,2021/22,North East,340.0
+All,Greece,First degree,Full-time,2021/22,North West,210.0
+All,Greece,First degree,Full-time,2021/22,Yorkshire and The Humber,215.0
+All,Greece,First degree,Full-time,2021/22,East Midlands,170.0
+All,Greece,First degree,Full-time,2021/22,West Midlands,235.0
+All,Greece,First degree,Full-time,2021/22,East of England,230.0
+All,Greece,First degree,Full-time,2021/22,London,950.0
+All,Greece,First degree,Full-time,2021/22,South East,800.0
+All,Greece,First degree,Full-time,2021/22,South West,415.0
+All,Greece,First degree,Full-time,2021/22,The Open University in England,0.0
+All,Greece,First degree,Full-time,2021/22,Wales,175.0
+All,Greece,First degree,Full-time,2021/22,Scotland,535.0
+All,Greece,First degree,Full-time,2021/22,Northern Ireland,5.0
+All,Greece,First degree,Part-time,2021/22,North East,20.0
+All,Greece,First degree,Part-time,2021/22,North West,5.0
+All,Greece,First degree,Part-time,2021/22,Yorkshire and The Humber,5.0
+All,Greece,First degree,Part-time,2021/22,East Midlands,5.0
+All,Greece,First degree,Part-time,2021/22,West Midlands,10.0
+All,Greece,First degree,Part-time,2021/22,East of England,10.0
+All,Greece,First degree,Part-time,2021/22,London,25.0
+All,Greece,First degree,Part-time,2021/22,South East,25.0
+All,Greece,First degree,Part-time,2021/22,South West,10.0
+All,Greece,First degree,Part-time,2021/22,The Open University in England,0.0
+All,Greece,First degree,Part-time,2021/22,Wales,5.0
+All,Greece,First degree,Part-time,2021/22,Scotland,5.0
+All,Greece,First degree,Part-time,2021/22,Northern Ireland,0.0
+All,Greece,Other undergraduate,Full-time,2021/22,North East,0.0
+All,Greece,Other undergraduate,Full-time,2021/22,North West,0.0
+All,Greece,Other undergraduate,Full-time,2021/22,Yorkshire and The Humber,0.0
+All,Greece,Other undergraduate,Full-time,2021/22,East Midlands,0.0
+All,Greece,Other undergraduate,Full-time,2021/22,West Midlands,0.0
+All,Greece,Other undergraduate,Full-time,2021/22,East of England,5.0
+All,Greece,Other undergraduate,Full-time,2021/22,London,5.0
+All,Greece,Other undergraduate,Full-time,2021/22,South East,5.0
+All,Greece,Other undergraduate,Full-time,2021/22,South West,0.0
+All,Greece,Other undergraduate,Full-time,2021/22,The Open University in England,0.0
+All,Greece,Other undergraduate,Full-time,2021/22,Wales,0.0
+All,Greece,Other undergraduate,Full-time,2021/22,Scotland,0.0
+All,Greece,Other undergraduate,Full-time,2021/22,Northern Ireland,0.0
+All,Greece,Other undergraduate,Part-time,2021/22,North East,0.0
+All,Greece,Other undergraduate,Part-time,2021/22,North West,0.0
+All,Greece,Other undergraduate,Part-time,2021/22,Yorkshire and The Humber,5.0
+All,Greece,Other undergraduate,Part-time,2021/22,East Midlands,0.0
+All,Greece,Other undergraduate,Part-time,2021/22,West Midlands,5.0
+All,Greece,Other undergraduate,Part-time,2021/22,East of England,5.0
+All,Greece,Other undergraduate,Part-time,2021/22,London,5.0
+All,Greece,Other undergraduate,Part-time,2021/22,South East,0.0
+All,Greece,Other undergraduate,Part-time,2021/22,South West,0.0
+All,Greece,Other undergraduate,Part-time,2021/22,The Open University in England,0.0
+All,Greece,Other undergraduate,Part-time,2021/22,Wales,5.0
+All,Greece,Other undergraduate,Part-time,2021/22,Scotland,10.0
+All,Greece,Other undergraduate,Part-time,2021/22,Northern Ireland,0.0
+All,Russia,Postgraduate (research),Full-time,2021/22,North East,10.0
+All,Russia,Postgraduate (research),Full-time,2021/22,North West,20.0
+All,Russia,Postgraduate (research),Full-time,2021/22,Yorkshire and The Humber,5.0
+All,Russia,Postgraduate (research),Full-time,2021/22,East Midlands,5.0
+All,Russia,Postgraduate (research),Full-time,2021/22,West Midlands,20.0
+All,Russia,Postgraduate (research),Full-time,2021/22,East of England,35.0
+All,Russia,Postgraduate (research),Full-time,2021/22,London,55.0
+All,Russia,Postgraduate (research),Full-time,2021/22,South East,40.0
+All,Russia,Postgraduate (research),Full-time,2021/22,South West,10.0
+All,Russia,Postgraduate (research),Full-time,2021/22,The Open University in England,0.0
+All,Russia,Postgraduate (research),Full-time,2021/22,Wales,0.0
+All,Russia,Postgraduate (research),Full-time,2021/22,Scotland,20.0
+All,Russia,Postgraduate (research),Full-time,2021/22,Northern Ireland,0.0
+All,Russia,Postgraduate (research),Part-time,2021/22,North East,0.0
+All,Russia,Postgraduate (research),Part-time,2021/22,North West,0.0
+All,Russia,Postgraduate (research),Part-time,2021/22,Yorkshire and The Humber,0.0
+All,Russia,Postgraduate (research),Part-time,2021/22,East Midlands,0.0
+All,Russia,Postgraduate (research),Part-time,2021/22,West Midlands,0.0
+All,Russia,Postgraduate (research),Part-time,2021/22,East of England,0.0
+All,Russia,Postgraduate (research),Part-time,2021/22,London,5.0
+All,Russia,Postgraduate (research),Part-time,2021/22,South East,0.0
+All,Russia,Postgraduate (research),Part-time,2021/22,South West,0.0
+All,Russia,Postgraduate (research),Part-time,2021/22,The Open University in England,0.0
+All,Russia,Postgraduate (research),Part-time,2021/22,Wales,0.0
+All,Russia,Postgraduate (research),Part-time,2021/22,Scotland,0.0
+All,Russia,Postgraduate (research),Part-time,2021/22,Northern Ireland,0.0
+All,Russia,Postgraduate (taught),Full-time,2021/22,North East,20.0
+All,Russia,Postgraduate (taught),Full-time,2021/22,North West,35.0
+All,Russia,Postgraduate (taught),Full-time,2021/22,Yorkshire and The Humber,20.0
+All,Russia,Postgraduate (taught),Full-time,2021/22,East Midlands,15.0
+All,Russia,Postgraduate (taught),Full-time,2021/22,West Midlands,35.0
+All,Russia,Postgraduate (taught),Full-time,2021/22,East of England,35.0
+All,Russia,Postgraduate (taught),Full-time,2021/22,London,460.0
+All,Russia,Postgraduate (taught),Full-time,2021/22,South East,65.0
+All,Russia,Postgraduate (taught),Full-time,2021/22,South West,30.0
+All,Russia,Postgraduate (taught),Full-time,2021/22,The Open University in England,0.0
+All,Russia,Postgraduate (taught),Full-time,2021/22,Wales,10.0
+All,Russia,Postgraduate (taught),Full-time,2021/22,Scotland,95.0
+All,Russia,Postgraduate (taught),Full-time,2021/22,Northern Ireland,10.0
+All,Russia,Postgraduate (taught),Part-time,2021/22,North East,0.0
+All,Russia,Postgraduate (taught),Part-time,2021/22,North West,5.0
+All,Russia,Postgraduate (taught),Part-time,2021/22,Yorkshire and The Humber,5.0
+All,Russia,Postgraduate (taught),Part-time,2021/22,East Midlands,5.0
+All,Russia,Postgraduate (taught),Part-time,2021/22,West Midlands,10.0
+All,Russia,Postgraduate (taught),Part-time,2021/22,East of England,0.0
+All,Russia,Postgraduate (taught),Part-time,2021/22,London,50.0
+All,Russia,Postgraduate (taught),Part-time,2021/22,South East,25.0
+All,Russia,Postgraduate (taught),Part-time,2021/22,South West,5.0
+All,Russia,Postgraduate (taught),Part-time,2021/22,The Open University in England,0.0
+All,Russia,Postgraduate (taught),Part-time,2021/22,Wales,0.0
+All,Russia,Postgraduate (taught),Part-time,2021/22,Scotland,15.0
+All,Russia,Postgraduate (taught),Part-time,2021/22,Northern Ireland,0.0
+All,Russia,First degree,Full-time,2021/22,North East,60.0
+All,Russia,First degree,Full-time,2021/22,North West,110.0
+All,Russia,First degree,Full-time,2021/22,Yorkshire and The Humber,60.0
+All,Russia,First degree,Full-time,2021/22,East Midlands,70.0
+All,Russia,First degree,Full-time,2021/22,West Midlands,70.0
+All,Russia,First degree,Full-time,2021/22,East of England,85.0
+All,Russia,First degree,Full-time,2021/22,London,965.0
+All,Russia,First degree,Full-time,2021/22,South East,245.0
+All,Russia,First degree,Full-time,2021/22,South West,175.0
+All,Russia,First degree,Full-time,2021/22,The Open University in England,0.0
+All,Russia,First degree,Full-time,2021/22,Wales,30.0
+All,Russia,First degree,Full-time,2021/22,Scotland,150.0
+All,Russia,First degree,Full-time,2021/22,Northern Ireland,5.0
+All,Russia,First degree,Part-time,2021/22,North East,0.0
+All,Russia,First degree,Part-time,2021/22,North West,0.0
+All,Russia,First degree,Part-time,2021/22,Yorkshire and The Humber,0.0
+All,Russia,First degree,Part-time,2021/22,East Midlands,0.0
+All,Russia,First degree,Part-time,2021/22,West Midlands,0.0
+All,Russia,First degree,Part-time,2021/22,East of England,0.0
+All,Russia,First degree,Part-time,2021/22,London,15.0
+All,Russia,First degree,Part-time,2021/22,South East,0.0
+All,Russia,First degree,Part-time,2021/22,South West,0.0
+All,Russia,First degree,Part-time,2021/22,The Open University in England,0.0
+All,Russia,First degree,Part-time,2021/22,Wales,5.0
+All,Russia,First degree,Part-time,2021/22,Scotland,5.0
+All,Russia,First degree,Part-time,2021/22,Northern Ireland,0.0
+All,Russia,Other undergraduate,Full-time,2021/22,North East,10.0
+All,Russia,Other undergraduate,Full-time,2021/22,North West,0.0
+All,Russia,Other undergraduate,Full-time,2021/22,Yorkshire and The Humber,0.0
+All,Russia,Other undergraduate,Full-time,2021/22,East Midlands,0.0
+All,Russia,Other undergraduate,Full-time,2021/22,West Midlands,0.0
+All,Russia,Other undergraduate,Full-time,2021/22,East of England,10.0
+All,Russia,Other undergraduate,Full-time,2021/22,London,35.0
+All,Russia,Other undergraduate,Full-time,2021/22,South East,10.0
+All,Russia,Other undergraduate,Full-time,2021/22,South West,10.0
+All,Russia,Other undergraduate,Full-time,2021/22,The Open University in England,0.0
+All,Russia,Other undergraduate,Full-time,2021/22,Wales,0.0
+All,Russia,Other undergraduate,Full-time,2021/22,Scotland,10.0
+All,Russia,Other undergraduate,Full-time,2021/22,Northern Ireland,0.0
+All,Russia,Other undergraduate,Part-time,2021/22,North East,0.0
+All,Russia,Other undergraduate,Part-time,2021/22,North West,0.0
+All,Russia,Other undergraduate,Part-time,2021/22,Yorkshire and The Humber,0.0
+All,Russia,Other undergraduate,Part-time,2021/22,East Midlands,0.0
+All,Russia,Other undergraduate,Part-time,2021/22,West Midlands,5.0
+All,Russia,Other undergraduate,Part-time,2021/22,East of England,0.0
+All,Russia,Other undergraduate,Part-time,2021/22,London,10.0
+All,Russia,Other undergraduate,Part-time,2021/22,South East,5.0
+All,Russia,Other undergraduate,Part-time,2021/22,South West,0.0
+All,Russia,Other undergraduate,Part-time,2021/22,The Open University in England,0.0
+All,Russia,Other undergraduate,Part-time,2021/22,Wales,0.0
+All,Russia,Other undergraduate,Part-time,2021/22,Scotland,10.0
+All,Russia,Other undergraduate,Part-time,2021/22,Northern Ireland,0.0
+All,Turkey,Postgraduate (research),Full-time,2021/22,North East,40.0
+All,Turkey,Postgraduate (research),Full-time,2021/22,North West,75.0
+All,Turkey,Postgraduate (research),Full-time,2021/22,Yorkshire and The Humber,70.0
+All,Turkey,Postgraduate (research),Full-time,2021/22,East Midlands,70.0
+All,Turkey,Postgraduate (research),Full-time,2021/22,West Midlands,65.0
+All,Turkey,Postgraduate (research),Full-time,2021/22,East of England,65.0
+All,Turkey,Postgraduate (research),Full-time,2021/22,London,195.0
+All,Turkey,Postgraduate (research),Full-time,2021/22,South East,145.0
+All,Turkey,Postgraduate (research),Full-time,2021/22,South West,90.0
+All,Turkey,Postgraduate (research),Full-time,2021/22,The Open University in England,0.0
+All,Turkey,Postgraduate (research),Full-time,2021/22,Wales,35.0
+All,Turkey,Postgraduate (research),Full-time,2021/22,Scotland,130.0
+All,Turkey,Postgraduate (research),Full-time,2021/22,Northern Ireland,15.0
+All,Turkey,Postgraduate (research),Part-time,2021/22,North East,0.0
+All,Turkey,Postgraduate (research),Part-time,2021/22,North West,5.0
+All,Turkey,Postgraduate (research),Part-time,2021/22,Yorkshire and The Humber,0.0
+All,Turkey,Postgraduate (research),Part-time,2021/22,East Midlands,0.0
+All,Turkey,Postgraduate (research),Part-time,2021/22,West Midlands,0.0
+All,Turkey,Postgraduate (research),Part-time,2021/22,East of England,0.0
+All,Turkey,Postgraduate (research),Part-time,2021/22,London,15.0
+All,Turkey,Postgraduate (research),Part-time,2021/22,South East,5.0
+All,Turkey,Postgraduate (research),Part-time,2021/22,South West,5.0
+All,Turkey,Postgraduate (research),Part-time,2021/22,The Open University in England,0.0
+All,Turkey,Postgraduate (research),Part-time,2021/22,Wales,5.0
+All,Turkey,Postgraduate (research),Part-time,2021/22,Scotland,5.0
+All,Turkey,Postgraduate (research),Part-time,2021/22,Northern Ireland,0.0
+All,Turkey,Postgraduate (taught),Full-time,2021/22,North East,40.0
+All,Turkey,Postgraduate (taught),Full-time,2021/22,North West,50.0
+All,Turkey,Postgraduate (taught),Full-time,2021/22,Yorkshire and The Humber,55.0
+All,Turkey,Postgraduate (taught),Full-time,2021/22,East Midlands,65.0
+All,Turkey,Postgraduate (taught),Full-time,2021/22,West Midlands,75.0
+All,Turkey,Postgraduate (taught),Full-time,2021/22,East of England,110.0
+All,Turkey,Postgraduate (taught),Full-time,2021/22,London,680.0
+All,Turkey,Postgraduate (taught),Full-time,2021/22,South East,225.0
+All,Turkey,Postgraduate (taught),Full-time,2021/22,South West,125.0
+All,Turkey,Postgraduate (taught),Full-time,2021/22,The Open University in England,0.0
+All,Turkey,Postgraduate (taught),Full-time,2021/22,Wales,55.0
+All,Turkey,Postgraduate (taught),Full-time,2021/22,Scotland,125.0
+All,Turkey,Postgraduate (taught),Full-time,2021/22,Northern Ireland,25.0
+All,Turkey,Postgraduate (taught),Part-time,2021/22,North East,0.0
+All,Turkey,Postgraduate (taught),Part-time,2021/22,North West,5.0
+All,Turkey,Postgraduate (taught),Part-time,2021/22,Yorkshire and The Humber,10.0
+All,Turkey,Postgraduate (taught),Part-time,2021/22,East Midlands,5.0
+All,Turkey,Postgraduate (taught),Part-time,2021/22,West Midlands,10.0
+All,Turkey,Postgraduate (taught),Part-time,2021/22,East of England,5.0
+All,Turkey,Postgraduate (taught),Part-time,2021/22,London,50.0
+All,Turkey,Postgraduate (taught),Part-time,2021/22,South East,10.0
+All,Turkey,Postgraduate (taught),Part-time,2021/22,South West,10.0
+All,Turkey,Postgraduate (taught),Part-time,2021/22,The Open University in England,0.0
+All,Turkey,Postgraduate (taught),Part-time,2021/22,Wales,5.0
+All,Turkey,Postgraduate (taught),Part-time,2021/22,Scotland,15.0
+All,Turkey,Postgraduate (taught),Part-time,2021/22,Northern Ireland,0.0
+All,Turkey,First degree,Full-time,2021/22,North East,65.0
+All,Turkey,First degree,Full-time,2021/22,North West,145.0
+All,Turkey,First degree,Full-time,2021/22,Yorkshire and The Humber,65.0
+All,Turkey,First degree,Full-time,2021/22,East Midlands,150.0
+All,Turkey,First degree,Full-time,2021/22,West Midlands,95.0
+All,Turkey,First degree,Full-time,2021/22,East of England,75.0
+All,Turkey,First degree,Full-time,2021/22,London,935.0
+All,Turkey,First degree,Full-time,2021/22,South East,230.0
+All,Turkey,First degree,Full-time,2021/22,South West,170.0
+All,Turkey,First degree,Full-time,2021/22,The Open University in England,0.0
+All,Turkey,First degree,Full-time,2021/22,Wales,15.0
+All,Turkey,First degree,Full-time,2021/22,Scotland,110.0
+All,Turkey,First degree,Full-time,2021/22,Northern Ireland,0.0
+All,Turkey,First degree,Part-time,2021/22,North East,0.0
+All,Turkey,First degree,Part-time,2021/22,North West,0.0
+All,Turkey,First degree,Part-time,2021/22,Yorkshire and The Humber,0.0
+All,Turkey,First degree,Part-time,2021/22,East Midlands,0.0
+All,Turkey,First degree,Part-time,2021/22,West Midlands,0.0
+All,Turkey,First degree,Part-time,2021/22,East of England,0.0
+All,Turkey,First degree,Part-time,2021/22,London,10.0
+All,Turkey,First degree,Part-time,2021/22,South East,5.0
+All,Turkey,First degree,Part-time,2021/22,South West,5.0
+All,Turkey,First degree,Part-time,2021/22,The Open University in England,0.0
+All,Turkey,First degree,Part-time,2021/22,Wales,0.0
+All,Turkey,First degree,Part-time,2021/22,Scotland,5.0
+All,Turkey,First degree,Part-time,2021/22,Northern Ireland,0.0
+All,Turkey,Other undergraduate,Full-time,2021/22,North East,0.0
+All,Turkey,Other undergraduate,Full-time,2021/22,North West,0.0
+All,Turkey,Other undergraduate,Full-time,2021/22,Yorkshire and The Humber,0.0
+All,Turkey,Other undergraduate,Full-time,2021/22,East Midlands,0.0
+All,Turkey,Other undergraduate,Full-time,2021/22,West Midlands,0.0
+All,Turkey,Other undergraduate,Full-time,2021/22,East of England,0.0
+All,Turkey,Other undergraduate,Full-time,2021/22,London,65.0
+All,Turkey,Other undergraduate,Full-time,2021/22,South East,15.0
+All,Turkey,Other undergraduate,Full-time,2021/22,South West,5.0
+All,Turkey,Other undergraduate,Full-time,2021/22,The Open University in England,0.0
+All,Turkey,Other undergraduate,Full-time,2021/22,Wales,0.0
+All,Turkey,Other undergraduate,Full-time,2021/22,Scotland,5.0
+All,Turkey,Other undergraduate,Full-time,2021/22,Northern Ireland,0.0
+All,Turkey,Other undergraduate,Part-time,2021/22,North East,0.0
+All,Turkey,Other undergraduate,Part-time,2021/22,North West,0.0
+All,Turkey,Other undergraduate,Part-time,2021/22,Yorkshire and The Humber,0.0
+All,Turkey,Other undergraduate,Part-time,2021/22,East Midlands,0.0
+All,Turkey,Other undergraduate,Part-time,2021/22,West Midlands,0.0
+All,Turkey,Other undergraduate,Part-time,2021/22,East of England,0.0
+All,Turkey,Other undergraduate,Part-time,2021/22,London,5.0
+All,Turkey,Other undergraduate,Part-time,2021/22,South East,5.0
+All,Turkey,Other undergraduate,Part-time,2021/22,South West,0.0
+All,Turkey,Other undergraduate,Part-time,2021/22,The Open University in England,0.0
+All,Turkey,Other undergraduate,Part-time,2021/22,Wales,0.0
+All,Turkey,Other undergraduate,Part-time,2021/22,Scotland,5.0
+All,Turkey,Other undergraduate,Part-time,2021/22,Northern Ireland,0.0
+All,Ukraine,Postgraduate (research),Full-time,2021/22,North East,0.0
+All,Ukraine,Postgraduate (research),Full-time,2021/22,North West,5.0
+All,Ukraine,Postgraduate (research),Full-time,2021/22,Yorkshire and The Humber,5.0
+All,Ukraine,Postgraduate (research),Full-time,2021/22,East Midlands,5.0
+All,Ukraine,Postgraduate (research),Full-time,2021/22,West Midlands,5.0
+All,Ukraine,Postgraduate (research),Full-time,2021/22,East of England,0.0
+All,Ukraine,Postgraduate (research),Full-time,2021/22,London,5.0
+All,Ukraine,Postgraduate (research),Full-time,2021/22,South East,5.0
+All,Ukraine,Postgraduate (research),Full-time,2021/22,South West,5.0
+All,Ukraine,Postgraduate (research),Full-time,2021/22,The Open University in England,0.0
+All,Ukraine,Postgraduate (research),Full-time,2021/22,Wales,5.0
+All,Ukraine,Postgraduate (research),Full-time,2021/22,Scotland,10.0
+All,Ukraine,Postgraduate (research),Full-time,2021/22,Northern Ireland,0.0
+All,Ukraine,Postgraduate (research),Part-time,2021/22,North East,0.0
+All,Ukraine,Postgraduate (research),Part-time,2021/22,North West,0.0
+All,Ukraine,Postgraduate (research),Part-time,2021/22,Yorkshire and The Humber,0.0
+All,Ukraine,Postgraduate (research),Part-time,2021/22,East Midlands,0.0
+All,Ukraine,Postgraduate (research),Part-time,2021/22,West Midlands,0.0
+All,Ukraine,Postgraduate (research),Part-time,2021/22,East of England,0.0
+All,Ukraine,Postgraduate (research),Part-time,2021/22,London,0.0
+All,Ukraine,Postgraduate (research),Part-time,2021/22,South East,0.0
+All,Ukraine,Postgraduate (research),Part-time,2021/22,South West,0.0
+All,Ukraine,Postgraduate (research),Part-time,2021/22,The Open University in England,0.0
+All,Ukraine,Postgraduate (research),Part-time,2021/22,Wales,0.0
+All,Ukraine,Postgraduate (research),Part-time,2021/22,Scotland,0.0
+All,Ukraine,Postgraduate (research),Part-time,2021/22,Northern Ireland,0.0
+All,Ukraine,Postgraduate (taught),Full-time,2021/22,North East,5.0
+All,Ukraine,Postgraduate (taught),Full-time,2021/22,North West,5.0
+All,Ukraine,Postgraduate (taught),Full-time,2021/22,Yorkshire and The Humber,10.0
+All,Ukraine,Postgraduate (taught),Full-time,2021/22,East Midlands,5.0
+All,Ukraine,Postgraduate (taught),Full-time,2021/22,West Midlands,15.0
+All,Ukraine,Postgraduate (taught),Full-time,2021/22,East of England,10.0
+All,Ukraine,Postgraduate (taught),Full-time,2021/22,London,100.0
+All,Ukraine,Postgraduate (taught),Full-time,2021/22,South East,10.0
+All,Ukraine,Postgraduate (taught),Full-time,2021/22,South West,10.0
+All,Ukraine,Postgraduate (taught),Full-time,2021/22,The Open University in England,0.0
+All,Ukraine,Postgraduate (taught),Full-time,2021/22,Wales,5.0
+All,Ukraine,Postgraduate (taught),Full-time,2021/22,Scotland,30.0
+All,Ukraine,Postgraduate (taught),Full-time,2021/22,Northern Ireland,5.0
+All,Ukraine,Postgraduate (taught),Part-time,2021/22,North East,0.0
+All,Ukraine,Postgraduate (taught),Part-time,2021/22,North West,0.0
+All,Ukraine,Postgraduate (taught),Part-time,2021/22,Yorkshire and The Humber,0.0
+All,Ukraine,Postgraduate (taught),Part-time,2021/22,East Midlands,0.0
+All,Ukraine,Postgraduate (taught),Part-time,2021/22,West Midlands,0.0
+All,Ukraine,Postgraduate (taught),Part-time,2021/22,East of England,0.0
+All,Ukraine,Postgraduate (taught),Part-time,2021/22,London,15.0
+All,Ukraine,Postgraduate (taught),Part-time,2021/22,South East,5.0
+All,Ukraine,Postgraduate (taught),Part-time,2021/22,South West,0.0
+All,Ukraine,Postgraduate (taught),Part-time,2021/22,The Open University in England,0.0
+All,Ukraine,Postgraduate (taught),Part-time,2021/22,Wales,0.0
+All,Ukraine,Postgraduate (taught),Part-time,2021/22,Scotland,5.0
+All,Ukraine,Postgraduate (taught),Part-time,2021/22,Northern Ireland,0.0
+All,Ukraine,First degree,Full-time,2021/22,North East,20.0
+All,Ukraine,First degree,Full-time,2021/22,North West,30.0
+All,Ukraine,First degree,Full-time,2021/22,Yorkshire and The Humber,20.0
+All,Ukraine,First degree,Full-time,2021/22,East Midlands,20.0
+All,Ukraine,First degree,Full-time,2021/22,West Midlands,35.0
+All,Ukraine,First degree,Full-time,2021/22,East of England,35.0
+All,Ukraine,First degree,Full-time,2021/22,London,255.0
+All,Ukraine,First degree,Full-time,2021/22,South East,55.0
+All,Ukraine,First degree,Full-time,2021/22,South West,50.0
+All,Ukraine,First degree,Full-time,2021/22,The Open University in England,0.0
+All,Ukraine,First degree,Full-time,2021/22,Wales,5.0
+All,Ukraine,First degree,Full-time,2021/22,Scotland,35.0
+All,Ukraine,First degree,Full-time,2021/22,Northern Ireland,0.0
+All,Ukraine,First degree,Part-time,2021/22,North East,0.0
+All,Ukraine,First degree,Part-time,2021/22,North West,0.0
+All,Ukraine,First degree,Part-time,2021/22,Yorkshire and The Humber,0.0
+All,Ukraine,First degree,Part-time,2021/22,East Midlands,0.0
+All,Ukraine,First degree,Part-time,2021/22,West Midlands,0.0
+All,Ukraine,First degree,Part-time,2021/22,East of England,0.0
+All,Ukraine,First degree,Part-time,2021/22,London,5.0
+All,Ukraine,First degree,Part-time,2021/22,South East,0.0
+All,Ukraine,First degree,Part-time,2021/22,South West,0.0
+All,Ukraine,First degree,Part-time,2021/22,The Open University in England,0.0
+All,Ukraine,First degree,Part-time,2021/22,Wales,0.0
+All,Ukraine,First degree,Part-time,2021/22,Scotland,0.0
+All,Ukraine,First degree,Part-time,2021/22,Northern Ireland,0.0
+All,Ukraine,Other undergraduate,Full-time,2021/22,North East,5.0
+All,Ukraine,Other undergraduate,Full-time,2021/22,North West,0.0
+All,Ukraine,Other undergraduate,Full-time,2021/22,Yorkshire and The Humber,0.0
+All,Ukraine,Other undergraduate,Full-time,2021/22,East Midlands,0.0
+All,Ukraine,Other undergraduate,Full-time,2021/22,West Midlands,0.0
+All,Ukraine,Other undergraduate,Full-time,2021/22,East of England,5.0
+All,Ukraine,Other undergraduate,Full-time,2021/22,London,25.0
+All,Ukraine,Other undergraduate,Full-time,2021/22,South East,5.0
+All,Ukraine,Other undergraduate,Full-time,2021/22,South West,10.0
+All,Ukraine,Other undergraduate,Full-time,2021/22,The Open University in England,0.0
+All,Ukraine,Other undergraduate,Full-time,2021/22,Wales,0.0
+All,Ukraine,Other undergraduate,Full-time,2021/22,Scotland,5.0
+All,Ukraine,Other undergraduate,Full-time,2021/22,Northern Ireland,0.0
+All,Ukraine,Other undergraduate,Part-time,2021/22,North East,0.0
+All,Ukraine,Other undergraduate,Part-time,2021/22,North West,0.0
+All,Ukraine,Other undergraduate,Part-time,2021/22,Yorkshire and The Humber,0.0
+All,Ukraine,Other undergraduate,Part-time,2021/22,East Midlands,0.0
+All,Ukraine,Other undergraduate,Part-time,2021/22,West Midlands,0.0
+All,Ukraine,Other undergraduate,Part-time,2021/22,East of England,0.0
+All,Ukraine,Other undergraduate,Part-time,2021/22,London,5.0
+All,Ukraine,Other undergraduate,Part-time,2021/22,South East,0.0
+All,Ukraine,Other undergraduate,Part-time,2021/22,South West,0.0
+All,Ukraine,Other undergraduate,Part-time,2021/22,The Open University in England,0.0
+All,Ukraine,Other undergraduate,Part-time,2021/22,Wales,0.0
+All,Ukraine,Other undergraduate,Part-time,2021/22,Scotland,0.0
+All,Ukraine,Other undergraduate,Part-time,2021/22,Northern Ireland,0.0

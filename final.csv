@@ -1,0 +1,181 @@
+Month,Region,Disease,Total
+April,Midwest,HEPATITIS A,722
+April,Midwest,MEASLES,12350
+April,Midwest,RUBELLA,2922
+April,Northeast,HEPATITIS A,436
+April,Northeast,MEASLES,2819
+April,Northeast,RUBELLA,1256
+April,Southeast,HEPATITIS A,445
+April,Southeast,MEASLES,5132
+April,Southeast,RUBELLA,1409
+April,Southwest,HEPATITIS A,185
+April,Southwest,MEASLES,6066
+April,Southwest,RUBELLA,454
+April,West,HEPATITIS A,588
+April,West,MEASLES,5440
+April,West,RUBELLA,1423
+August,Midwest,HEPATITIS A,578
+August,Midwest,MEASLES,774
+August,Midwest,RUBELLA,416
+August,Northeast,HEPATITIS A,409
+August,Northeast,MEASLES,145
+August,Northeast,RUBELLA,187
+August,Southeast,HEPATITIS A,286
+August,Southeast,MEASLES,507
+August,Southeast,RUBELLA,167
+August,Southwest,HEPATITIS A,211
+August,Southwest,MEASLES,554
+August,Southwest,RUBELLA,35
+August,West,HEPATITIS A,667
+August,West,MEASLES,502
+August,West,RUBELLA,155
+December,Midwest,HEPATITIS A,690
+December,Midwest,MEASLES,824
+December,Midwest,RUBELLA,385
+December,Northeast,HEPATITIS A,604
+December,Northeast,MEASLES,181
+December,Northeast,RUBELLA,140
+December,Southeast,HEPATITIS A,359
+December,Southeast,MEASLES,746
+December,Southeast,RUBELLA,100
+December,Southwest,HEPATITIS A,243
+December,Southwest,MEASLES,808
+December,Southwest,RUBELLA,37
+December,West,HEPATITIS A,731
+December,West,MEASLES,902
+December,West,RUBELLA,319
+February,Midwest,HEPATITIS A,873
+February,Midwest,MEASLES,14506
+February,Midwest,RUBELLA,2040
+February,Northeast,HEPATITIS A,527
+February,Northeast,MEASLES,4469
+February,Northeast,RUBELLA,765
+February,Southeast,HEPATITIS A,551
+February,Southeast,MEASLES,5101
+February,Southeast,RUBELLA,1044
+February,Southwest,HEPATITIS A,241
+February,Southwest,MEASLES,3780
+February,Southwest,RUBELLA,431
+February,West,HEPATITIS A,763
+February,West,MEASLES,3238
+February,West,RUBELLA,1224
+January,Midwest,HEPATITIS A,904
+January,Midwest,MEASLES,11472
+January,Midwest,RUBELLA,1353
+January,Northeast,HEPATITIS A,686
+January,Northeast,MEASLES,4284
+January,Northeast,RUBELLA,835
+January,Southeast,HEPATITIS A,613
+January,Southeast,MEASLES,5649
+January,Southeast,RUBELLA,650
+January,Southwest,HEPATITIS A,338
+January,Southwest,MEASLES,2113
+January,Southwest,RUBELLA,317
+January,West,HEPATITIS A,887
+January,West,MEASLES,2383
+January,West,RUBELLA,1040
+July,Midwest,HEPATITIS A,598
+July,Midwest,MEASLES,2997
+July,Midwest,RUBELLA,693
+July,Northeast,HEPATITIS A,469
+July,Northeast,MEASLES,427
+July,Northeast,RUBELLA,400
+July,Southeast,HEPATITIS A,366
+July,Southeast,MEASLES,1490
+July,Southeast,RUBELLA,460
+July,Southwest,HEPATITIS A,241
+July,Southwest,MEASLES,1268
+July,Southwest,RUBELLA,101
+July,West,HEPATITIS A,895
+July,West,MEASLES,1330
+July,West,RUBELLA,251
+June,Midwest,HEPATITIS A,546
+June,Midwest,MEASLES,6857
+June,Midwest,RUBELLA,1837
+June,Northeast,HEPATITIS A,440
+June,Northeast,MEASLES,1027
+June,Northeast,RUBELLA,860
+June,Southeast,HEPATITIS A,368
+June,Southeast,MEASLES,2843
+June,Southeast,RUBELLA,933
+June,Southwest,HEPATITIS A,158
+June,Southwest,MEASLES,2695
+June,Southwest,RUBELLA,205
+June,West,HEPATITIS A,706
+June,West,MEASLES,3021
+June,West,RUBELLA,549
+March,Midwest,HEPATITIS A,802
+March,Midwest,MEASLES,15370
+March,Midwest,RUBELLA,2603
+March,Northeast,HEPATITIS A,462
+March,Northeast,MEASLES,4171
+March,Northeast,RUBELLA,1225
+March,Southeast,HEPATITIS A,574
+March,Southeast,MEASLES,6334
+March,Southeast,RUBELLA,1636
+March,Southwest,HEPATITIS A,227
+March,Southwest,MEASLES,6335
+March,Southwest,RUBELLA,551
+March,West,HEPATITIS A,640
+March,West,MEASLES,4908
+March,West,RUBELLA,1484
+May,Midwest,HEPATITIS A,841
+May,Midwest,MEASLES,14107
+May,Midwest,RUBELLA,3382
+May,Northeast,HEPATITIS A,693
+May,Northeast,MEASLES,2738
+May,Northeast,RUBELLA,1641
+May,Southeast,HEPATITIS A,534
+May,Southeast,MEASLES,5965
+May,Southeast,RUBELLA,2126
+May,Southwest,HEPATITIS A,247
+May,Southwest,MEASLES,5888
+May,Southwest,RUBELLA,486
+May,West,HEPATITIS A,790
+May,West,MEASLES,7289
+May,West,RUBELLA,1550
+November,Midwest,HEPATITIS A,624
+November,Midwest,MEASLES,1212
+November,Midwest,RUBELLA,358
+November,Northeast,HEPATITIS A,587
+November,Northeast,MEASLES,297
+November,Northeast,RUBELLA,218
+November,Southeast,HEPATITIS A,456
+November,Southeast,MEASLES,522
+November,Southeast,RUBELLA,163
+November,Southwest,HEPATITIS A,229
+November,Southwest,MEASLES,880
+November,Southwest,RUBELLA,46
+November,West,HEPATITIS A,821
+November,West,MEASLES,1551
+November,West,RUBELLA,381
+October,Midwest,HEPATITIS A,779
+October,Midwest,MEASLES,687
+October,Midwest,RUBELLA,402
+October,Northeast,HEPATITIS A,674
+October,Northeast,MEASLES,321
+October,Northeast,RUBELLA,209
+October,Southeast,HEPATITIS A,464
+October,Southeast,MEASLES,399
+October,Southeast,RUBELLA,158
+October,Southwest,HEPATITIS A,252
+October,Southwest,MEASLES,616
+October,Southwest,RUBELLA,34
+October,West,HEPATITIS A,1004
+October,West,MEASLES,1030
+October,West,RUBELLA,334
+September,Midwest,HEPATITIS A,522
+September,Midwest,MEASLES,475
+September,Midwest,RUBELLA,333
+September,Northeast,HEPATITIS A,437
+September,Northeast,MEASLES,95
+September,Northeast,RUBELLA,132
+September,Southeast,HEPATITIS A,312
+September,Southeast,MEASLES,345
+September,Southeast,RUBELLA,104
+September,Southwest,HEPATITIS A,173
+September,Southwest,MEASLES,340
+September,Southwest,RUBELLA,15
+September,West,HEPATITIS A,697
+September,West,MEASLES,405
+September,West,RUBELLA,209
